@@ -1,0 +1,46 @@
+{
+  "Roads": {
+    "Materials": {
+      "US": 120000,
+      "EU": 100000
+    },
+    "Labor": {
+      "US": 80000,
+      "EU": 75000
+    },
+    "Land": {
+      "US": 50000,
+      "EU": 40000
+    },
+    "Equipment": {
+      "US": 30000,
+      "EU": 25000
+    },
+    "Maintenance": {
+      "US": 15000,
+      "EU": 12000
+    }
+  },
+  "Solar Panels": {
+    "Materials": {
+      "US": 1000,
+      "EU": 950
+    },
+    "Labor": {
+      "US": 500,
+      "EU": 450
+    },
+    "Land": {
+      "US": 300,
+      "EU": 250
+    },
+    "Equipment": {
+      "US": 200,
+      "EU": 180
+    },
+    "Maintenance": {
+      "US": 100,
+      "EU": 90
+    }
+  }
+}

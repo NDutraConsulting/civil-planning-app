@@ -1,0 +1,16 @@
+{
+  "Roads": {
+    "constructionYears": 3,
+    "constructionPattern": "linear",
+    "revenueDelay": 1,
+    "revenueYears": 25,
+    "maintenanceFreq": 5
+  },
+  "Solar Panels": {
+    "constructionYears": 2,
+    "constructionPattern": "ramp-up",
+    "revenueDelay": 0,
+    "revenueYears": 20,
+    "maintenanceFreq": 3
+  }
+}

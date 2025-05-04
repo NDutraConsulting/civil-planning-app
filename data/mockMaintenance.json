@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Roads",
+    "subcategory": "Labor",
+    "costPerUnit": 2000,
+    "frequencyYears": 5
+  },
+  {
+    "category": "Solar Panels",
+    "subcategory": "Inspection",
+    "costPerUnit": 150,
+    "frequencyYears": 3
+  }
+]

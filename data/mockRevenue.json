@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Single Family Home Construction",
+    "region": "US",
+    "revenuePerUnit": 18000
+  },
+  {
+    "category": "Solar Panels",
+    "region": "US",
+    "revenuePerUnit": 4000
+  },
+  {
+    "category": "Wind Turbines",
+    "region": "US",
+    "revenuePerUnit": 3000
+  }
+]

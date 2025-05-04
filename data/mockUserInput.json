@@ -1,0 +1,8 @@
+{
+  "homes": 100,
+  "solarMW": 50,
+  "windMW": 20,
+  "roadMiles": 10,
+  "mediumDensityUnits": 30,
+  "businessUnits": 5
+}
